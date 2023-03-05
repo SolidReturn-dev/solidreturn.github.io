@@ -1,0 +1,2 @@
+# posterum.net
+Static website
