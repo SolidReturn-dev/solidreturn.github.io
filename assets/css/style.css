@@ -95,8 +95,8 @@ color: #FFF;
 }
 
 .navbar-inverse {
-background-color: rgb(31, 173, 238);
-border-color: rgba(31, 173, 238, 1);
+background-color: rgb(34, 31, 238);
+border-color: rgba(34, 31, 238);
 }
  
 /*=======================================
@@ -105,15 +105,15 @@ border-color: rgba(31, 173, 238, 1);
 
 
 .head-btn-one {
-    background-color: rgba(31, 173, 238);
-     border: 0px solid #fff;
+    background-color: rgba(34, 31, 238);
+    border: 0px solid #d64704;
 
 }
 
 #home {
     padding-top:130px;
     padding-bottom:200px;
-    color:#fff;
+    color:#1e07ee;
 }
 .head-main {
     font-size:50px ;
@@ -164,7 +164,7 @@ border-radius: 0px;
     width: 100%;
 }
 .team-member > h3 {
-    background: rgba(31, 173, 238, 1);
+    background: rgba(34, 31, 238);
     bottom: 25px;
     color:#fff;
     font-size: 20px;
@@ -184,11 +184,11 @@ border-radius: 0px;
 
 
 #technology {
-    color:#fff;
+    color:#000;
 }
 
 #data_aquisition {
-    color:#fff;
+    color:#1e07ee;
 }
 
 #data_storage {
@@ -196,7 +196,7 @@ border-radius: 0px;
 }
 
 #data_sampling {
-    color:#fff;
+    color:#1e07ee;
 }
 
 #data_mining {
@@ -204,11 +204,11 @@ border-radius: 0px;
 }
 
 #data_deployment {
-    color:#fff;
+    color:#1e07ee;
 }
 
 #data_project {
-    color:#fff;
+    color:#1e07ee;
 }
 
 #data_control {
@@ -226,7 +226,7 @@ border-radius: 0px;
     cursor: pointer;
     border: none;
     border-radius: 50%;
-    background-color: rgba(31, 173, 238, 1);
+    background-color: rgba(34, 31, 238);
     box-shadow: inset 1px 1px 1px 1px rgba(0,0,0,0.5);
 }
 
@@ -310,7 +310,7 @@ padding: 5px;
 ==================================================*/
 
 .color-bg-one {
-    background-color:rgba(31, 173, 238, 1)!important;
+    background-color:rgba(34, 31, 238)!important;
     color:#fff;
 }
 .color-white {
@@ -331,7 +331,7 @@ padding: 5px;
 ==================================================*/
 
 .scl {
-    background:rgba(31, 173, 238, 1);
+    background:rgba(34, 31, 238);
     
     color:#fff;
 }
@@ -342,7 +342,7 @@ padding: 5px;
         color:#fff;
     }
 .scl-dark-bk {
-    background:rgb(31, 173, 238);
+    background:rgb(34, 31, 238);
 }
 /*=======================================
     FOOTER STYLES
@@ -353,7 +353,7 @@ padding: 5px;
     color:#fff;
     padding:20px 50px 20px 50px;
     text-align:right;
-    background-color:rgba(31, 173, 238, 1);
+    background-color:rgba(34, 31, 238);
 }
 
 
