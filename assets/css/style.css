@@ -153,16 +153,16 @@ max-width: 120px;
 ABOUT SECTION STYLES
 ==================================================*/
 
-.team-member {
+.service {
 float: left;
 position: relative;
 width: 100%;
 }
-.team-member > img {
+.service > img {
 float: left;
 width: 100%;
 }
-.team-member > h3 {
+.service > h3 {
 background: rgba(31, 173, 238, 1);
 bottom: 25px;
 color:#fff;
@@ -252,6 +252,11 @@ color:#fff;
 max-height: 120px;
 max-width: 120px;
 }
+
+.img-b {
+  max-height: 230px;
+  max-width: 230px;
+  }
 
 .c-black {
 color:#fff;

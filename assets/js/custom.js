@@ -42,9 +42,9 @@
             $(function() {
                 $('body').vegas({
                     slides: [
-                        { src: 'assets/img/1.jpg', fade: 1000, delay: 9000},
-                        { src: 'assets/img/2.jpg', fade: 1000, delay: 9000},
-                        { src: 'assets/img/3.jpg', fade: 1000, delay: 9000},
+                        { src: 'assets/img/Imagem-home-1-bw.jpg', fade: 1000, delay: 9000},
+                        { src: 'assets/img/Imagem-home-2-bw.jpg', fade: 1000, delay: 9000},
+                        { src: 'assets/img/Imagem-home-4-bw.jpg', fade: 1000, delay: 9000},
                     ],
                     transition: 'slideLeft',
                     animation: 'random' ,
