@@ -258,11 +258,27 @@ max-width: 120px;
   max-width: 230px;
   }
 
+.img-c {
+  max-height: auto;
+  max-width: 100%;
+  opacity: 1.0;
+  }
+
+.img-d {
+    max-width: 100%;
+    height: auto;
+    opacity: 1.0;
+  }
+
 .c-black {
 color:#fff;
 font-style: italic;
 font-size: 20px;
 padding: 5px;
+}
+
+.opacity {
+  opacity: 1.0;
 }
 /*=======================================
 PRICE SECTION STYLES
@@ -364,4 +380,11 @@ color:#fff;
 padding:20px 50px 20px 50px;
 text-align:right;
 background-color:#3e3a3a;
+}
+
+/* Adicione margem à direita à classe .navbar-brand para telas pequenas */
+@media (max-width: 767px) {
+  .navbar-brand {
+    margin-bottom: 60px; /* Ajuste o valor conforme necessário */
+  }
 }
