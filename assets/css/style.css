@@ -388,3 +388,7 @@ background-color:#3e3a3a;
     margin-bottom: 60px; /* Ajuste o valor conforme necessário */
   }
 }
+
+.upspace {
+  margin-top: 100px; /* Adiciona espaço acima do elemento2 */
+}
