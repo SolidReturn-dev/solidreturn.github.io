@@ -392,3 +392,25 @@ background-color:#3e3a3a;
 .upspace {
   margin-top: 100px; /* Adiciona espaço acima do elemento2 */
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+}
+
+.img-t {
+  max-width: 200px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
