@@ -414,3 +414,41 @@ th, td {
   display: block;
   margin: 0 auto;
 }
+
+#textoOculto-1 {
+  display: none; /* Inicia oculto */
+}
+
+#textoOculto-2 {
+  display: none; /* Inicia oculto */
+}
+
+#botaoToggle-1 {
+  cursor: pointer;
+  color: white;
+  text-decoration: underline;
+}
+
+#botaoToggle-2 {
+  cursor: pointer;
+  color: white;
+  text-decoration: underline;
+}
+
+.botao-preto {
+  background-color: #3f3a3a;
+  color: white; /* Define a cor do texto para branco para garantir legibilidade */
+  padding: 10px 20px; /* Adapte o preenchimento conforme necessário */
+  border: none; /* Remove a borda do botão */
+  border-radius: 5px; /* Adiciona bordas arredondadas */
+  cursor: pointer;
+}
+
+.botao-verde {
+  background-color: #149b26;
+  color: white; /* Define a cor do texto para branco para garantir legibilidade */
+  padding: 10px 20px; /* Adapte o preenchimento conforme necessário */
+  border: none; /* Remove a borda do botão */
+  border-radius: 5px; /* Adiciona bordas arredondadas */
+  cursor: pointer;
+}

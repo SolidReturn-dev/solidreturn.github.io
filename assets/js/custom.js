@@ -94,5 +94,18 @@
 
 }(jQuery));
 
+// Função para alternar a visibilidade do texto oculto
+function toggleTextoOculto_1() {
+    var textoOculto = document.getElementById('textoOculto-1');
+    textoOculto.style.display = (textoOculto.style.display === 'none') ? 'block' : 'none';
+}
 
+function toggleTextoOculto_2() {
+    var textoOculto = document.getElementById('textoOculto-2');
+    textoOculto.style.display = (textoOculto.style.display === 'none') ? 'block' : 'none';
+}
+
+// Adiciona um evento de clique ao botão para chamar a função
+document.getElementById('botaoToggle-1').addEventListener('click', toggleTextoOculto_1);
+document.getElementById('botaoToggle-2').addEventListener('click', toggleTextoOculto_2);
 
